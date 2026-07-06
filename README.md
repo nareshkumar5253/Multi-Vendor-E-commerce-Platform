@@ -34,7 +34,7 @@ The application follows a modular architecture with secure authentication, RESTf
 
 ---
 
-## 🏪Vendor Module
+## Vendor Module
 
 - Vendor Registration
 - Admin Approval System
